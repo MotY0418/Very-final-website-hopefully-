@@ -132,7 +132,13 @@ nav a:hover, nav a.active {
 .card h2 {
   margin-top: 0;
   color: var(--text-color);
+   font-size: 4rem;
 }
+
+.card p {
+  font-size: 2rem;
+}
+
 
 /* === PROFILE PHOTO STYLES ADDED HERE === */
 .profile-photo-container {
